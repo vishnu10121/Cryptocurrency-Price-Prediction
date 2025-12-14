@@ -30,7 +30,7 @@ coin_defaults = {
 
 # ---------------- Title ----------------
 st.title("🪙 Cryptocurrency Price Prediction")
-st.write("Predict crypto price using **Random Forest Regression** based on **Market Capitalization & Trading Volume**")
+st.write("Predict crypto price based on **Market Capitalization & Trading Volume**")
 
 # ---------------- Sidebar Inputs ----------------
 st.sidebar.header("🔧 Input Parameters")
@@ -135,5 +135,6 @@ if predict_btn:
 
 # ---------------- Footer ----------------
 st.markdown("---")
-st.caption("📌 Cryptocurrency Price Prediction by VISHNU RAJ")
+st.caption("📌 Cryptocurrency Price Prediction by **VISHNU RAJ**")
+
 
