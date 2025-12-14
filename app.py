@@ -135,4 +135,5 @@ if predict_btn:
 
 # ---------------- Footer ----------------
 st.markdown("---")
-st.caption("📌 Academic ML Project | Cryptocurrency Price Prediction using Streamlit & Random Forest")
+st.caption("📌 Cryptocurrency Price Prediction by VISHNU RAJ")
+
